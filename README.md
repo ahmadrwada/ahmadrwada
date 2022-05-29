@@ -1,3 +1,5 @@
+Data-Analyst-Portfolio
+
 - 👋 Hi, I’m @ahmad rufai wada
 - 👀 I’m interested in Data Analysis 
 - 🌱 I’m currently learning AI programming and Machine Learning 
